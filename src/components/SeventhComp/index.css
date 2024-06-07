@@ -1,0 +1,73 @@
+.add-brands {
+  margin-bottom: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th {
+  border-bottom: 0.5px solid #cdbe8d;
+  padding: 30px;
+  text-align: left;
+}
+
+td {
+  border-bottom: 0.5px solid #cdbe8d;
+  padding: 20px;
+}
+
+
+.sev-page {
+  display: flex;
+  /* justify-content: flex-start;
+  align-self: flex-start; */
+  margin-bottom: px;
+  padding-bottom: 0px;
+  margin-left:200px;
+}
+
+.sev-page-1 {
+  display: flex;
+  /* justify-content: flex-start;
+  align-self: flex-start; */
+  margin-bottom: px;
+  padding-bottom: 0px;
+  margin-left: 200px;
+}
+.sev-search {
+  border: 1px solid rgb(226, 226, 20);
+  background-color: black;
+  color: bisque;
+  width: 300px;
+}
+.sear-button {
+  /* border: 1px solid rgb(223, 223, 196); */
+  padding: 10px;
+  margin-left: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  background-color: #ccbb8e;
+}
+.div-hr {
+  border-bottom: 2px solid #cdbe8d;
+  width: 1000px;
+}
+.sev-page-1 {
+  width: cover;
+  margin: 20px;
+  display: flex;
+  height: 100vh;
+}
+.edit-btn {
+  margin-left: 20px;
+  border: 1px solid rgb(205, 199, 183);
+  padding: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 15px;
+}
+.b-color-se {
+  border: 1px solid rgb(230, 198, 115);
+}

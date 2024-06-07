@@ -1,0 +1,169 @@
+.main-bg-container {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  color: aliceblue;
+  padding-top: 100px;
+}
+input {
+  background-color: black;
+  border: 1px solid #5b5441;
+  color: #ffff;
+  margin: 5px;
+}
+.heading-section {
+  display: flex;
+  padding-left: 8vw;
+  padding-bottom: 10px;
+  margin: 5px;
+  /* color: #ccbb8e; */
+}
+.heading-section-creadentials {
+  display: flex;
+  padding-left: 50px;
+}
+.input-section {
+  align-items: center;
+  flex-grow: 1;
+  max-width: 400px;
+}
+
+.input-section-creadentials {
+  align-items: center;
+  flex-grow: 1;
+  /* max-width: 400px; */
+  padding-top: 10px;
+  /* padding-left: 20px; */
+  margin-left: 20px;
+}
+.label {
+  width: 200px;
+  text-align: left;
+  padding-right: 10px;
+  /* color: #ccbb8e; */
+}
+.label-cre {
+  /* padding-right: 10px; */
+  font-style: 6px;
+  padding-top: 15px;
+  width: 150px;
+  justify-content: space-between;
+  /* background-color: #fff; */
+}
+.credit {
+  padding-left: 50px;
+}
+.label-cat {
+  width: 200px;
+  text-align: left;
+  padding-right: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.top-cont {
+  display: flex;
+  /* background-color: black; */
+  color: aliceblue;
+  justify-content: space-between;
+  padding-bottom: 30px;
+}
+.open-days-cont {
+  display: flex;
+  flex-direction: column;
+}
+.open-days-top-cont {
+  display: flex;
+}
+.open-days-bottom-cont {
+  display: flex;
+}
+.time-section {
+  display: flex;
+  padding-right: 40px;
+}
+.time-section-cont {
+  display: flex;
+}
+.time-input-cont {
+  display: flex;
+  border: 1px solid #ccbb8e;
+}
+.label-input-time {
+  width: 150px;
+}
+.label-input {
+  width: 130px;
+  padding-right: 10px;
+}
+.label-input-dur {
+  width: 70px;
+  padding-right: 10px;
+}
+.add-service-btn {
+  display: flex;
+  flex-direction: row;
+
+  /* justify-content: space-between; */
+}
+.serivies-input-cont {
+  display: flex;
+  flex-direction: column;
+}
+.services-input-top-cont {
+  display: flex;
+}
+.services-input-item {
+  display: flex;
+  padding: 10px;
+}
+.feature-item {
+  display: flex;
+  gap: 50px;
+}
+.owner-section {
+  background-color: #222222;
+  margin-right: 80px;
+  /* height: 484px; */
+  /* width: 376px; */
+}
+
+.add-feature-button {
+  background-color: #ccbb8e;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.del-btn {
+  background-color: black;
+  mix-blend-mode: multiply;
+  color: #ccbb8e;
+  background: none;
+}
+.add {
+  display: flex;
+  background-color: black;
+  color: #ccbb8e;
+  border-style: hidden;
+}
+.combo {
+  color: #ccbb8e;
+  background-color: black;
+  border-color: 1px solid #5b5441;
+  padding: 10px;
+}
+
+.submit {
+  background-color: #ccbb8e;
+  color: black;
+  width: 241px;
+  height: 52px;
+  padding-left: 50px;
+  padding: 5px;
+  margin-left: 9vw;
+}
+
+.hrr {
+  margin-left: 8vw;
+  margin-right: 6vw;
+  border: 0.3px solid #5b5441;
+  margin-bottom: 30px;
+}

@@ -1,0 +1,80 @@
+.header-login {
+  display: flex;
+  justify-content: space-between;
+}
+
+.bg-container-log {
+  color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  justify-content: center;
+  height: 100vh;
+}
+
+.log-hed {
+  font-size: 64px;
+  color: aliceblue;
+  font-family: Avegas Royale;
+  text-align: center;
+  margin-top: -60px;
+}
+.log-place {
+  background-color: black;
+  border-bottom: 1px solid #5b5441;
+  margin-bottom: 20px;
+  color: #ccbb8e;
+}
+.bg-login {
+  height: 480px;
+
+  width: 510px;
+  /* margin-left: 370px; */
+  margin-top: 200px;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  align-items: center;
+}
+.login {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+  border: 0.5px solid #5b5441;
+  padding: 80px;
+  margin-bottom: 100px;
+}
+.user {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  align-self: center;
+}
+.log-button {
+  background-color: rgb(230, 213, 149);
+  width: 150px;
+
+  margin-top: 20px;
+  padding: 10px;
+  color: black;
+  font-weight: 700;
+  text-align: center;
+}
+
+.log-in-hed-name {
+  color: #5b5441;
+  font-family: "Courier New", Courier, monospace;
+  -webkit-text-stroke: 0.5px rgba(247, 244, 244, 0.574);
+  /* text-stroke: 1px 5b5441; */
+  font-size: 20px;
+}
+.log-btn-div {
+  display: flex;
+  justify-content: center;
+}
+.m-hed-logout {
+  display: flex;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}

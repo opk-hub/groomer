@@ -1,0 +1,76 @@
+.input-item {
+    background-color: black;
+    border: 1px solid #ccbb8e;
+    margin-left: 40px;
+    margin: 5px;
+    padding: 7px;
+  }
+  .display-img {
+    display: flex;
+  }
+  .affilated {
+    display: flex;
+    flex-direction: column;
+  }
+  .affilated-items {
+    display: flex;
+  }
+  .gender {
+    display: flex;
+    margin-top: 10px;
+  }
+  .gender-for {
+    display: flex;
+  }
+  .gender-male {
+    margin-left: 10px;
+  }
+  .img-cent {
+    background-image: url("https://res.cloudinary.com/dmtpjfnfu/image/upload/v1714295663/Screenshot_2024-04-28_144515_cndtim.png");
+    background-size: cover;
+    width: 200px;
+    height: 150px;
+    border: 2px solid yellow;
+    border-style: dotted;
+    margin: 10px;
+  }
+  .img-bottle {
+    background-image: url("https://res.cloudinary.com/dmtpjfnfu/image/upload/v1714301898/Screenshot_2024-04-28_162901_qmnv55.png");
+    background-size: cover;
+    width: 200px;
+    height: 150px;
+    border: 2px solid yellow;
+    border-style: dotted;
+    margin: 10px;
+  }
+  .manage-items {
+    margin: 10px;
+  }
+  .label-margin {
+    margin-right: 100px;
+    color: white;
+  }
+  .cat {
+    margin-right: 110px;
+  }
+  .div-price {
+    display: flex;
+    margin-left: 10px;
+  }
+  .price-margin {
+    margin-left: 150px;
+    background-color: black;
+  
+    border: 1px solid #ccbb8e;
+    height: 15px;
+    width: 50px;
+    padding: 5px;
+  }
+  .radio-1 {
+    margin-top: 15px;
+  }
+  .sevth-page-contanier {
+    padding-left: 200px;
+    padding-bottom: 30px;
+  }
+  

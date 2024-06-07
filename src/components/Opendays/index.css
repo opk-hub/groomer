@@ -1,0 +1,28 @@
+.salon-cat {
+  display: flex;
+}
+.salon-cat-items {
+  display: flex;
+}
+.selected {
+  background-color: #5b5441;
+}
+.salon-cat-item {
+  border: 0.2px solid #ccbb8e;
+  padding: 10px;
+  margin-right: 20px;
+  color: rgb(226, 220, 195);
+  border: 1px solid #5b5441;
+}
+.sa-cart-list {
+  display: flex;
+  flex-direction: column;
+}
+.open-days-top-container {
+  display: flex;
+  padding-bottom: 20px;
+}
+.open-days-bottom-cont {
+  display: flex;
+  padding-bottom: 20px;
+}

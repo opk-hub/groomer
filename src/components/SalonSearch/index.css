@@ -1,0 +1,39 @@
+.salon-container {
+  padding-top: 100px;
+}
+.form-group-open {
+  display: flex;
+  padding-left: 200px;
+  padding-bottom: 10px;
+  /* align-items: center; */
+}
+.label-search {
+  width: 300px;
+  text-align: left;
+  /* padding-right: 10px; */
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.dropdown-option {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  background: rgba(217, 217, 217, 0.25);
+  border-radius: 20px;
+  padding: 10px;
+  margin-bottom: 10px;
+  /* padding-right: 100px; */
+}
+.salon-container {
+  background-color: black;
+  color: aliceblue;
+}
+.search{
+  background-color: #ccbb8e;
+  margin-left: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 40px;
+  width: 140px;
+
+}

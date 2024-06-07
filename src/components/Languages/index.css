@@ -1,0 +1,39 @@
+.languages-container {
+  display: flex;
+  gap: 50px;
+  align-items: center;
+}
+.checkbox-group {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.checkbox-label {
+  position: relative;
+  padding-left: 30px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.checkbox-label input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.checkbox-custom {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 2px;
+  height: 16px;
+  width: 16px;
+  /* background-color: #fff; */
+  border: 2px solid #ccbb8e;
+  border-radius: 50%;
+}
+
+/* Add styles for when the checkbox is checked */
+.checkbox-label input:checked ~ .checkbox-custom {
+  background-color: #ccbb8e;
+}

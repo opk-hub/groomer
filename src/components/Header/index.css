@@ -1,0 +1,35 @@
+.span-hed {
+  padding: 8px;
+  height: 100px;
+  color: #ccbb8e;
+  border: 1px solid #5b5441;
+}
+
+.select-wrapper span {
+  color: white;
+  /* padding: 5px; */
+}
+.Navbar {
+  margin-top: 80px;
+  margin-bottom: 20px;
+  margin-left: 8vw;
+  color: #ccbb8e;
+}
+.hr-line {
+  margin-top: 7px;
+  border-top: 0.5px solid #ccbb8e;
+  margin-right: 50px;
+  border: 0.3px solid #5b5441;
+}
+.Navbar .active {
+  background: #5b5441;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  color: #fff;
+  font-weight: 700;
+  /* text-decoration: underline; */
+}
+a {
+  text-decoration: none;
+  color: #fff;
+}
